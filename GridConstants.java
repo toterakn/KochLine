@@ -10,6 +10,8 @@ package edu.cofc.csci221.ui;
  * because the constructor is private
  * 
  * DO NOT MODIFY THIS CLASS
+ * 
+ * Professor/Author code.
  *
  */
 public class GridConstants {

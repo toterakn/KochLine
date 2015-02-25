@@ -6,6 +6,8 @@ package edu.cofc.csci221.ui;
  * @since 30 Sept. 2014
  * 
  * Line class that stores start and end points
+ * 
+ * Professor/Author Code.
  *
  */
 public class Line {

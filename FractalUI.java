@@ -16,6 +16,8 @@ import javax.swing.JPanel;
  * the panel class and supplies wrapper methods
  * 
  * DO NOT MODIFY THIS CLASS
+ * 
+ * Professor/Author code.
  *
  */
 @SuppressWarnings("serial")

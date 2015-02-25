@@ -6,6 +6,8 @@ package edu.cofc.csci221.ui;
  * @since 30 Sept. 2014
  * 
  * Point class that stores x and y coordinate locations
+ * 
+ * Professor/Author code.
  *
  */
 public class Point {
